@@ -69,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ###npx json-server -p 8000 -w data/mydb.json to access database
+
+
+
+![homepage](https://user-images.githubusercontent.com/87909025/224663047-03f85908-71ef-4c40-8e1d-1f24c800deb0.GIF)
+![createpage](https://user-images.githubusercontent.com/87909025/224663114-f486e7de-ccd2-4a72-b2d6-3db284a188df.GIF)
+
+
